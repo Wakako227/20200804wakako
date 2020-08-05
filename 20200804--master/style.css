@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+    text-align: center;
+    background-color: wheat;
+}
+p {
+    color: blue;
+    font-size: 45px;
+}
+li {
+    color: yellow;
+    font-size: 40px;
+    float: right;
+}
+h2 {
+    border-color: wheat;
+}
